@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hello 😁 I am Ayush Kumar Mishra</h1> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&&color=F7F7F7&random=false&width=725&lines=Hello+😁+My+Name+is+Ayush+Kumar+Mishra" alt="Typing SVG" /></a>
+<div style="backgroundColor:black">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&&random=false&width=725&lines=Hello+😁+My+Name+is+Ayush+Kumar+Mishra" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Learner. Eager to learn new Technologies. Problem Solver . Never Give up Attitude. Hardwork with Smartwork</h3>
 
 
@@ -36,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=002ayush&show_icons=true&locale=en" alt="002ayush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=002ayush&" alt="002ayush" /></p>
-  
+</div>
