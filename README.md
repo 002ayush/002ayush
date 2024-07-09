@@ -6,15 +6,16 @@
 
 <p align="center"> <img src='./logo1.gif' alt='002ayush' height=100 /></p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=002ayush" alt="002ayush" /></a> </p>
 
 
 
-- 🌱 I’m currently learning **Golang,Devops**
+- [x] 🌱 I’m currently learning **Golang,Devops**
 
-- 👨‍💻 My Portfolio [https://ayush-portfolio-htgx.vercel.app/](https://ayush-portfolio-htgx.vercel.app/)
+- [x] 👨‍💻 My Portfolio [https://ayush-portfolio-htgx.vercel.app/](https://ayush-portfolio-htgx.vercel.app/)
 
-- 📫 Reach me at :- **ayush110702@gmail.com**
+- [x] 📫 Reach me at :- **ayush110702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
