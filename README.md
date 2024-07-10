@@ -38,9 +38,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=002ayush&show_icons=true&locale=en&layout=compact&theme=darcula" alt="002ayush" /></p>
 
-<p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=002ayush&theme=darcula" alt="#"/></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=002ayush&theme=darcula" alt="#"/></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=002ayush&theme=darcula)
+<p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=002ayush&theme=darcula" alt="#"/></p>
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=002ayush&theme=darcula)
 
