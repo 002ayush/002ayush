@@ -43,8 +43,9 @@
 <p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=002ayush&theme=darcula" alt="#"/></p>
 
 
+<p><img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=002ayush&theme=darcula" alt="#"/></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=002ayush&theme=darcula)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=002ayush&theme=darcula)
