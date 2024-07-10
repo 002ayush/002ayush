@@ -45,7 +45,7 @@
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=002ayush&theme=darcula" alt="#"/></p>
 
-<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=002ayush&theme=darcula" alt="#"/></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=002ayush&theme=darcula" alt="#"/></p>
 
 
 
