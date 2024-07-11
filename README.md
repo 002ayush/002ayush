@@ -57,3 +57,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=002ayush&theme=darcula" alt="002ayush" /></p>
 </div>
+
+<p >Share some <span style="background-color:red;">❤</span> by giving stars ⭐ to the repositories</p>
