@@ -7,7 +7,7 @@
 <p align="center"> <img src='./logo1.gif' alt='002ayush' height=100 /></p>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=002ayush" alt="002ayush" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=98% src="https://github-profile-trophy.vercel.app/?username=002ayush" alt="002ayush" /></a> </p>
 
 ---
 
