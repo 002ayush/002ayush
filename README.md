@@ -6,10 +6,10 @@
 
 <p align="center"> <img src='./logo1.gif' alt='002ayush' height=100 /></p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=98% src="https://github-profile-trophy.vercel.app/?username=002ayush&row=4&theme=onedark&no-frame=true" alt="002ayush" /></a> </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - [x] 🌱 I’m currently learning **Golang,Devops**
 
@@ -30,7 +30,7 @@
 <a href="https://auth.geeksforgeeks.org/user/ayush15lwv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush15lwv" height="30" width="40" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
