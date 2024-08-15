@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Learner. Eager to learn new Technologies. Problem Solver . Never Give up Attitude. Hardwork with Smartwork</h3>
 
 
-<!--<p align="center"> <img src='./logo1.gif' alt='002ayush' height=100 /></p>-->
-![cyberpunk-illustration-with-neon-colors-futuristic-technology](https://github.com/user-attachments/assets/1ea7ada0-30fa-480e-9235-4885cabe75b2)
+<p align="center"> <img src='./logo1.gif' alt='002ayush' height=250 width=250 /></p>
+
 
 
 
