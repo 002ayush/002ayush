@@ -44,15 +44,15 @@
 
 
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=002ayush&theme=darcula" alt="#"/></p>
 
 
 
 
-<Also added this>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=002ayush&show_icons=true&locale=en&theme=darcula" alt="002ayush" /></p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=002ayush&theme=darcula" alt="002ayush" /></p>
 </div>
