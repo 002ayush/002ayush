@@ -57,8 +57,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=002ayush&theme=darcula" alt="002ayush" /></p>
 </div>
 
-<details>	
- <summary><b>GSSOC Badges and PostMan Badge</b></summary><br>
+
+ <p><b>GSSOC Badges and PostMan Badge</b></p><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -67,7 +67,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
 
 <p align="center">Share some <span style="background-color:red;">❤</span> by giving stars ⭐ to the repositories</p>
 </div>
